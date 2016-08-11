@@ -106,7 +106,7 @@
 
 #pragma mark QRViewDelegate
 -(void)scanTypeConfig:(QRItem *)item {
-#warning 直接支持条形码扫描
+//#warning 直接支持条形码扫描
 //
 //    if (item.type == QRItemTypeQRCode) {
 //        _output.metadataObjectTypes =@[AVMetadataObjectTypeQRCode];
